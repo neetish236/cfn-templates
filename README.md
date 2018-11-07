@@ -1,1 +1,4 @@
-# cfn-templates
+cfn-templates
+===================
+
+Misc. CloudFormation Templates
